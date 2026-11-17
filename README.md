@@ -6,8 +6,6 @@ Built as a **group project** for the Database Management Systems course in my Ma
 
 🎥 **[Watch the video walkthrough](https://drive.google.com/file/d/1CCx8A_uxuN-d4pf5dSMLIGWpNykHdKow/view?usp=drive_link)**
 
-<img width="1600" height="1023" alt="emporium-screens" src="https://github.com/user-attachments/assets/1e13e5ed-7d0c-4476-9bc0-c6e3c959bcb9" />
-
 ## Features
 
 ### For shoppers
