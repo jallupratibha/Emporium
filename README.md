@@ -4,7 +4,7 @@
 
 Built as a **group project** for the Database Management Systems course in my Master's. I led the UI and user experience and also worked on the code.
 
-🎥 **[Watch the video walkthrough](https://drive.google.com/file/d/1CCx8A_uxuN-d4pf5dSMLIGWpNykHdKow/view?usp=drive_link)**
+🎥 **[Watch the video walkthrough](https://drive.google.com/file/d/1LLuD1wMjYO5qibxBYEg724zRI3gPAyFX/view?usp=drive_link)**
 
 ## Features
 
