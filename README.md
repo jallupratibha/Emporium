@@ -2,7 +2,7 @@
 
 **An e-commerce website for handbags.** Shoppers can browse and search handbags from brands like ALDO, Michael Kors, Calvin Klein and Kate Spade, add them to a cart, enter shipping details and pay online. Staff get their own login and an analytics dashboard to manage products, customers, orders and warehouses.
 
-Built as a **group project** for the Database Management Systems course in my Master's.
+Built as a **group project** for the Database Management Systems course in my Master's. I led the UI and user experience and also worked on the code.
 
 🎥 **[Watch the video walkthrough](https://drive.google.com/file/d/1CCx8A_uxuN-d4pf5dSMLIGWpNykHdKow/view?usp=drive_link)**
 
@@ -77,6 +77,6 @@ DBMS_PROJECT_ECOMMERCE/
   db.sqlite3            Sample database with products
 ```
 
-## Team
+## Team and my role
 
-Built as a group project during my Master's.
+Built as a group project during my Master's. **My role:** I designed the UI and the shopping experience (the look, layout and flow from browsing to checkout) and worked on the code with the team.
